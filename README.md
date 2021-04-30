@@ -10,7 +10,7 @@ This is needed for our secret project [emoteJAM](https://gist.github.com/rexim/c
 
 [Emscripten] adds unnecessary complexity to our simple project and [giflib] is doing way more than what we need. [gif.js] hits the sweetspot between the complexity and the functionality. It's perfect for [Our Project][emoteJAM]. I just want it to be faster.
 
-## <My Favorite Lang> can also compile to WebAssembly. Why not just use <My Favorite Lang> instead of C?
+## `<My Favorite Lang>` can also compile to WebAssembly. Why not just use `<My Favorite Lang>` instead of C?
 
 For the same reason I don't wanna use [Emscripten]. I would even prefer to program this directly in [WAT], but unfortunately I don't have that much time.
 
